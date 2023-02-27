@@ -61,7 +61,6 @@ input {
     height: 250px;
   }
 }
-
 @media screen and (min-width: 700px) {
   img {
     width: 350px;
